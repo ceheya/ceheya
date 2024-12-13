@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ceheya
+- 👋 Hi, I’m @kenny
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 
